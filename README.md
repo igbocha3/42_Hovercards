@@ -2,4 +2,4 @@
 
 On hovering shows extra info about 42 person
 
-![](https://github.com/igbocha3/42_Hovercards/demo.gif)
+![Alt Text](https://github.com/igbocha3/42_Hovercards/blob/main/demo.gif)
