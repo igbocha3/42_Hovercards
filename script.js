@@ -1,0 +1,1 @@
+alert("We have an idea!");
