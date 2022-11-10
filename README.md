@@ -1,4 +1,6 @@
-# 42_Hovercards
+# 42_Hovercards (Chrome Extension)
+
+0X2A HACK: 42 Abu Dhabi First Hackathon Project
 
 On hovering shows extra info about 42 person
 
